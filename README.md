@@ -56,4 +56,4 @@ Once your hour is up, you'll write a reflection analyzing what went wrong and le
 
 ---
 
-**Note**: The point of this exercise is to experience productive failure. Your code is supposed to be messy and incomplete. That's the learning opportunity.
+**Note**: Your code is supposed to be messy and incomplete. That's the learning opportunity to see why the SDLC is utilized by software teams
