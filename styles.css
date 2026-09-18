@@ -80,6 +80,10 @@ body {
 }
 
 /* TODO */
+.task-item.task-overdue {
+    background-color: #780606;
+    border: 2px solid #000000;
+}
 
 .task-completed {
     opacity: 0.6;
